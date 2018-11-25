@@ -1,0 +1,1 @@
+jar cvfe SarinPeli.jar SarinPeli *.*
